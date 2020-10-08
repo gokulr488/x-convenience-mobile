@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "692533686175",
+    "firebase_url": "https://x-convenience.firebaseio.com",
+    "project_id": "x-convenience",
+    "storage_bucket": "x-convenience.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692533686175:android:9f9e8e65a8fc13f5a6d7aa",
+        "android_client_info": {
+          "package_name": "co.vift.x_convenience"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692533686175-n5rrfrna5d2ufb894p1677p456ck5vrl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.vift.x_convenience",
+            "certificate_hash": "350fe0d4332c67830160ff68954ad0bbe936f894"
+          }
+        },
+        {
+          "client_id": "692533686175-b7c7fj8hrrha5decfe9hm04arp2corcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8eZippoVnNvjmppRCPThWBmffGn5VtU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692533686175-b7c7fj8hrrha5decfe9hm04arp2corcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
